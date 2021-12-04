@@ -1,2 +1,2 @@
 # javaswingandfx
- apps desenvolvidos na plataforma Java Swing e Java FX utilizando a IDE NetBeans 12
+ Apps desenvolvidos na plataforma Java Swing e Java FX utilizando a IDE NetBeans 12
